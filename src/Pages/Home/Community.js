@@ -10,16 +10,16 @@ const Community = () => {
   </div>
   <div className="flex-1">
     <h1 className='mb-8 text-neutral'>VISIT TOPIC PAGES</h1>
-    <button className="btn btn-outline btn-primary mr-4 mb-4">Engineering</button>
-    <button className="btn btn-outline btn-primary">Mathematics</button><br/>
-    <button className="btn btn-outline btn-primary mr-4 mb-4">Biology</button>
-    <button className="btn btn-outline btn-primary mr-4">Computer Science</button><br/>
-    <button className="btn btn-outline btn-primary mr-4 mb-4">Climate Change</button>
-    <button className="btn btn-outline btn-primary mr-4">Medicine</button><br/>
-    <button className="btn btn-outline btn-primary mr-4 mb-4">Physics</button>
-    <button className="btn btn-outline btn-primary mr-4">Social Science</button><br/>
-    <button className="btn btn-outline btn-primary mr-4 mb-4">Astrophysics</button>
-    <button className="btn btn-outline btn-primary mr-4">Chemistry</button><br/>
+    <button className="btn btn-outline btn-primary mr-4 mb-4"><a href='https://www.researchgate.net/topic/Engineering'>Engineering</a></button>
+    <button className="btn btn-outline btn-primary"><a href='https://www.researchgate.net/topic/Mathematics'></a>Mathematics</button><br/>
+    <button className="btn btn-outline btn-primary mr-4 mb-4"><a href='https://www.researchgate.net/topic/Biology'></a>Biology</button>
+    <button className="btn btn-outline btn-primary mr-4"><a href='https://www.researchgate.net/topic/Computer-Science'></a>Computer Science</button><br/>
+    <button className="btn btn-outline btn-primary mr-4 mb-4"><a href='https://www.researchgate.net/topic/Climate-Change'>Climate Change</a></button>
+    <button className="btn btn-outline btn-primary mr-4"><a href='https://www.researchgate.net/topic/Medicine'>Medicine</a></button><br/>
+    <button className="btn btn-outline btn-primary mr-4 mb-4"><a href='https://www.researchgate.net/topic/Physics'>Physics</a></button>
+    <button className="btn btn-outline btn-primary mr-4"><a href='https://www.researchgate.net/topic/Social-Science'>Social Science</a></button><br/>
+    <button className="btn btn-outline btn-primary mr-4 mb-4"><a href='https://www.researchgate.net/topic/Astrophysics'>Astrophysics</a></button>
+    <button className="btn btn-outline btn-primary mr-4"><a href='https://www.researchgate.net/topic/Chemistry'>Chemistry</a></button><br/>
 
 
 
