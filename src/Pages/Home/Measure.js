@@ -3,7 +3,7 @@ import measure from '../../assets/stats.svg';
 
 const Measure = () => {
     return (
-        <section className="max-w-full bg-white py-8 lg:px-28">
+        <section className="max-w-full bg-white lg:px-28">
 <div className="flex flex-col lg:flex-row justify-center items-center container mx-auto my-10">
   <div className='flex-1  flex justify-center items-center sm:px-4'>
   <img src={measure} alt="img" className="lg:max-w-md"/>

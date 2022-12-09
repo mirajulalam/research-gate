@@ -3,6 +3,7 @@ import Banner from './Banner';
 import Community from './Community';
 import Discover from './Discover';
 import Measure from './Measure';
+import Research from './Research';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <Discover/>
             <Community/>
             <Measure/>
+            <Research/>
         </div>
     );
 };
