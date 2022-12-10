@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Shared/Footer';
 import Banner from './Banner';
 import Community from './Community';
 import Discover from './Discover';
@@ -13,6 +14,7 @@ const Home = () => {
             <Community/>
             <Measure/>
             <Research/>
+            <Footer/>
         </div>
     );
 };
