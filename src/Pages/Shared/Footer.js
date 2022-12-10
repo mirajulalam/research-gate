@@ -1,6 +1,7 @@
 import React from 'react';
 import hiring from '../../assets/footer-hiring.jpg';
 import advantage from '../../assets/footer-advertising.jpg';
+import FooterButtom from './FooterButtom';
 
 const Footer = () => {
     return (
@@ -28,6 +29,7 @@ const Footer = () => {
    </div>
   </div>
 </div>
+<FooterButtom/>
 </section>
     );
 };
